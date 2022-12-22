@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\Owner\Desktop\대학과제&자료\3-2.운영체제\prorpo\prorpo\소스.c(122,13): warning C4047: 'return': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Owner\Desktop\대학과제&자료\3-2.운영체제\prorpo\prorpo\소스.c(158,13): warning C4047: 'return': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  prorpo.vcxproj -> C:\Users\Owner\Desktop\대학과제&자료\3-2.운영체제\prorpo\x64\Debug\prorpo.exe
